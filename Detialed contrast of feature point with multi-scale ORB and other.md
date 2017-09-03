@@ -4,11 +4,11 @@
 
 1. Scale factor
 
-![Correct matches with different scale](E:\untitled.bmp)
+![Correct matches with different scale](https://github.com/cuiqiongjie/comparision_feature_point_MORB_and_other/blob/master/untitled.bmp)
 
 2. Brightness
 
-![hello ](E:untitled2.bmp)
+![hello ](https://github.com/cuiqiongjie/comparision_feature_point_MORB_and_other/blob/master/untitled2.bmp)
 
 3. Rotation
 
